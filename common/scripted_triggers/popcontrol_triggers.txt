@@ -476,7 +476,6 @@ character_is_special_congenital = {
         has_possibly_undefined_trait = { TRAIT = albino }
         has_possibly_undefined_trait = { TRAIT = dull }
         has_possibly_undefined_trait = { TRAIT = weak }
-        has_possibly_undefined_trait = { TRAIT = sterile }
         has_possibly_undefined_trait = { TRAIT = clubfooted }
         has_possibly_undefined_trait = { TRAIT = scaly }
         has_possibly_undefined_trait = { TRAIT = hunchbacked }
@@ -514,12 +513,8 @@ character_is_save_education_5 = {
     OR = {
         has_possibly_undefined_trait = { TRAIT = education_stewardship_5 }
         has_possibly_undefined_trait = { TRAIT = education_intrigue_5 }
-        has_possibly_undefined_trait = { TRAIT = education_prowess_martial_4 }
         has_possibly_undefined_trait = { TRAIT = education_learning_5 }
         has_possibly_undefined_trait = { TRAIT = education_martial_5 }
-        has_possibly_undefined_trait = { TRAIT = education_republican_knowledge_5 }
-        has_possibly_undefined_trait = { TRAIT = education_nht_prowess_5 }
-        has_possibly_undefined_trait = { TRAIT = education_nht_leadership_5 }
         has_possibly_undefined_trait = { TRAIT = education_diplomacy_5 }
     }
 }
